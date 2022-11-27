@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a professional, visually sophisticated and technologically proficient, responsive and multi-functional React Components.<br>👯 I’m looking to collaborate on any Full Stack Development Projects.<br>🤝 I’m looking for help with Backend Development and Cloud Computing as well.<br>🌱 I've currently got an interest in learning Cloud Computing.<br>⚡ Fun fact -> We can always have a jam Session whenever the no. of codes > no. of lines in our Code.
+🔭 I’m currently working on a professional, visually sophisticated and technologically proficient, responsive and multi-functional React Components.<br>👯 I’m looking to collaborate on any Full Stack Development Projects.<br>🤝 I’m looking for help with Backend Development and Cloud Computing as well.<br>🌱 I've currently got an interest in learning Cloud Computing.<br>⚡ Fun fact -> We can always have a jam Session whenever the no. of errors in code > no. of lines in our Code.
 
 
 ## 🌐 Socials:
